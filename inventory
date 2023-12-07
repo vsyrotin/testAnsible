@@ -1,3 +1,2 @@
 [hosts]
-5.75.246.250
-10.0.59.250 ansible_port=17771
+10.0.59.250 ansible_ssh_port=17771
