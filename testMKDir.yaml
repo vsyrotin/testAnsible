@@ -5,4 +5,4 @@
 
   tasks:
     - name: Create directory
-      command: mkdir /home/text/test_awx
+      command: mkdir -p /home/text/test_awx
